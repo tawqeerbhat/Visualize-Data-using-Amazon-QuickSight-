@@ -12,9 +12,7 @@ This project will guide you on how to use Amazon QuickSight, a powerful data vis
     <li>
         Navigate to the <strong>2-s3-quicksight</strong> section (provided repository or link) to find the <strong>"Amazon Bestseller Dataset" CSV</strong> file and the <strong>"manifest.json"</strong> file.
     </li>
-    <li>
-        Click on the "raw" button for each file. A new page will open with the data in text form. Press <strong>Control+S</strong> (or Command+S on a Mac) to save both files to your computer.
-    </li>
+   
 </ol>
 
 <p><strong>What is manifest.json?</strong></p>
