@@ -1,4 +1,4 @@
-<h1 style="font-size: 36px; font-weight: bold;">Project #2: Visualize Data using Amazon QuickSight (Beginner)</h1>
+<h1 style="font-size: 36px; font-weight: bold;"> Visualize Data using Amazon QuickSight </h1>
 
 <p><strong>Overview:</strong></p>
 <p>
