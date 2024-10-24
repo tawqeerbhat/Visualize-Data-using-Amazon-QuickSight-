@@ -1,4 +1,5 @@
-# Visualize-Data-using-Amazon-QuickSight-
+## <h1 style="font-size: 36px; font-weight: bold;">Project #2: Visualize Data using Amazon QuickSight (Beginner)</h1>
+
 <p style="font-size: 18px; font-weight: bold;">Overview</p>
 <p style="font-size: 16px;">
 This project is designed to help you learn how to create visualizations using Amazon S3 and Amazon QuickSight. 
